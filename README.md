@@ -64,3 +64,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Laravel API Project
+
+Бұл жоба Laravel негізінде жасалған және төрт эндпоинттен тұрады: `/sales`, `/orders`, `/stocks`, `/incomes`. Бұл API сыртқы дереккөздермен жұмыс істеп, деректерді алу үшін қолданылды.
+
+## **Жоба мүмкіндіктері:**
+- **/sales**: Сатылым деректерін алуға мүмкіндік береді.
+- **/orders**: Тапсырыстар деректерін алу үшін.
+- **/stocks**: Қойма деректерін ағымдағы күн бойынша шығару.
+- **/incomes**: Кірістер туралы мәліметтер алу.
+
+---
+
+## **Орнату қадамдары:**
+Бұл жобаны жергілікті серверде іске қосу үшін келесі қадамдарды орындаңыз:
+
+### **1. Репозиторийді клондаңыз:**
+```bash
+git clone https://github.com/Nura1806toktar/laravel-api-project.git
+
